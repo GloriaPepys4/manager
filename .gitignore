@@ -56,3 +56,6 @@ yarn-error.log*
 
 # Vercel
 .vercel
+
+# Trae IDE files
+.trae/
